@@ -1,90 +1,321 @@
-# Hi there 👋
+# Hi there 👋 I'm Muhammad Farooq
 
-I'm **[Your Name]**, a passionate developer and tech enthusiast focused on building meaningful solutions through code.
+<div align="center">
 
-## About Me
+### 🚀 Full Stack Software Engineer | Laravel • NestJS • React • .NET
 
-- 🔍 **What I Do**: [Brief description of your profession/role]
-- 🌱 **Currently Learning**: [What you're exploring]
-- 💡 **Interests**: [Your interests and passions]
-- 📍 **Location**: [Your location]
-- ⚡ **Fun Fact**: [Something interesting about you]
+Passionate about building scalable web applications, REST APIs, and modern software solutions.
 
-## 🛠️ Technical Skills
+[![GitHub followers](https://img.shields.io/github/followers/farooqhalimzaigithub?style=social)](https://github.com/farooqhalimzaigithub)
+[![Profile Views](https://komarev.com/ghpvc/?username=farooqhalimzaigithub\&label=Profile%20Views\&color=0e75b6\&style=flat)](https://github.com/farooqhalimzaigithub)
 
-### Languages
-- **Proficient**: [e.g., JavaScript, Python, TypeScript]
-- **Familiar**: [e.g., Java, Go, Rust]
+</div>
 
-### Technologies & Tools
-- **Frontend**: [e.g., React, Vue, Next.js]
-- **Backend**: [e.g., Node.js, Django, FastAPI]
-- **Databases**: [e.g., PostgreSQL, MongoDB, Redis]
-- **DevOps & Tools**: [e.g., Docker, Kubernetes, Git]
-- **Other**: [e.g., Cloud platforms, CI/CD, Testing frameworks]
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full Stack Software Engineer** with **5+ years of professional experience** developing enterprise web applications, REST APIs, and cloud-ready software solutions.
+
+I enjoy solving complex business problems through clean architecture, scalable backend systems, and modern frontend technologies. Throughout my career, I've worked with startups, software houses, and international clients, delivering production-ready applications across healthcare, ERP, booking systems, eCommerce, and real estate platforms.
+
+* 💼 Full Stack Developer at **Section Soft**
+* 🌱 Currently learning **Microservices, System Design, Cloud Technologies, and AI Integration**
+* 💡 Passionate about Software Architecture, Backend Development, and API Design
+* 🔭 Currently building Laravel, NestJS, ASP.NET Core, and React applications
+* 🤝 Love collaborating on innovative software projects
+* 📍 Pakistan
+* ⚡ Fun Fact: I enjoy turning complex business requirements into clean, maintainable code.
+
+---
+
+# 🛠 Technical Skills
+
+## 💻 Programming Languages
+
+* PHP
+* JavaScript
+* TypeScript
+* C#
+* SQL
+
+---
+
+## ⚙️ Backend
+
+* Laravel
+* NestJS
+* Node.js
+* ASP.NET Core
+* ASP.NET MVC
+* CodeIgniter
+* Express.js
+
+---
+
+## 🎨 Frontend
+
+* React.js
+* Vue.js
+* HTML5
+* CSS3
+* Bootstrap
+* Tailwind CSS
+* jQuery
+
+---
+
+## 🗄 Databases
+
+* MySQL
+* SQL Server
+* PostgreSQL
+* Firebase
+
+---
+
+## 🔌 APIs & Integrations
+
+* REST APIs
+* OAuth Authentication
+* Google APIs
+* Stripe
+* JazzCash
+* PayPal
+* Third-party API Integration
+
+---
+
+## ☁️ DevOps & Tools
+
+* Git & GitHub
+* Docker
+* Postman
+* Firebase Hosting
+* Composer
+* NPM
+* VS Code
+* Visual Studio
+* Linux
+* IIS
+
+---
 
 ## 🚀 Featured Projects
 
-### [Project Name 1](https://github.com/farooqhalimzaigithub/project-1)
-**Description**: [Brief description of what it does and why it's interesting]  
-**Tech Stack**: [Technologies used]  
-**Highlights**: [Key features or achievements]
+### 🏥 Wellness Platform
 
-### [Project Name 2](https://github.com/farooqhalimzaigithub/project-2)
-**Description**: [Brief description of what it does and why it's interesting]  
-**Tech Stack**: [Technologies used]  
-**Highlights**: [Key features or achievements]
+A complete wellness management platform with booking, payments, coach scheduling, Google Meet integration, authentication, and admin dashboard.
 
-### [Project Name 3](https://github.com/farooqhalimzaigithub/project-3)
-**Description**: [Brief description of what it does and why it's interesting]  
-**Tech Stack**: [Technologies used]  
-**Highlights**: [Key features or achievements]
+**Tech Stack**
 
-## 📊 GitHub Stats
+* Laravel
+* MySQL
+* Sanctum
+* Google Calendar API
+* Stripe
+* JazzCash
+
+**Highlights**
+
+* Appointment booking
+* Google Meet automation
+* Payment integration
+* Admin dashboard
+* REST APIs
+* Mobile backend
+
+---
+
+### 🏢 ERP System
+
+Enterprise Resource Planning solution covering HR, Finance, Payroll, Inventory, and Employee Management.
+
+**Tech Stack**
+
+* ASP.NET Core MVC
+* SQL Server
+* Entity Framework
+
+**Highlights**
+
+* Payroll Management
+* HR Module
+* Finance Module
+* Role-based Authentication
+* Reporting
+
+---
+
+### 🏡 Real Estate API
+
+Modern RESTful API powering real estate platforms with authentication, property management, favorites, bookings, and media management.
+
+**Tech Stack**
+
+* Laravel
+* Sanctum
+* MySQL
+
+**Highlights**
+
+* Authentication
+* Property APIs
+* Media Uploads
+* Favorites
+* Advanced Filtering
+* Pagination
+
+---
+
+### 🎓 Learning Management System
+
+Complete LMS allowing instructors to create courses, manage lessons, quizzes, enrollments, and student progress.
+
+**Tech Stack**
+
+* Laravel
+* MySQL
+* Bootstrap
+
+---
+
+## 💼 Professional Experience
+
+### Full Stack Developer
+
+**Section Soft**
+
+📅 February 2024 – Present
+
+* Developing enterprise-grade web applications using NestJS and modern technologies.
+* Designing scalable backend services and RESTful APIs.
+* Building secure and high-performance software solutions.
+* Collaborating with cross-functional teams on production systems.
+
+---
+
+### Website Developer
+
+**AptechMedia**
+
+📅 May 2023 – January 2024
+
+* Developed scalable web applications for international clients.
+* Designed REST APIs and third-party integrations.
+* Built frontend interfaces using React and Vue.js.
+* Developed backend systems using Laravel, Node.js, and ASP.NET.
+* Optimized database performance and application security.
+
+---
+
+### Web Engineering Trainer
+
+**Hazza Institute of Technology**
+
+📅 May 2023 – August 2023
+
+* Delivered web development training.
+* Mentored students in PHP, Laravel, JavaScript, and databases.
+* Conducted practical coding sessions and project guidance.
+
+---
+
+### Web Developer
+
+**Huzatech**
+
+📅 June 2022 – May 2023
+
+* Developed and maintained PHP-based applications.
+* Built REST APIs.
+* Worked with MySQL and frontend technologies.
+
+---
+
+### Web Developer
+
+**HOPE'87 Pakistan**
+
+📅 January 2022 – May 2022
+
+* Worked as a junior PHP developer.
+* Developed internal web applications.
+* Fixed bugs and implemented new features.
+
+---
+
+### Junior Software Engineer
+
+**The Nerdcamp**
+
+📅 November 2020 – January 2022
+
+* Started my professional software engineering career.
+* Built PHP applications.
+* Worked with MySQL, Bootstrap, JavaScript, and REST APIs.
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farooqhalimzaigithub&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farooqhalimzaigithub&layout=compact&theme=dark" alt="Top Languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=farooqhalimzaigithub&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farooqhalimzaigithub&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farooqhalimzaigithub&theme=tokyonight"/>
+
 </div>
 
-## 🎯 What I'm Working On
+---
 
-- [ ] [Current project or goal 1]
-- [ ] [Current project or goal 2]
-- [ ] [Current project or goal 3]
+## 🎯 Currently Working On
 
-## 💼 Experience
+* ✅ Enterprise Laravel Applications
+* ✅ NestJS Backend Services
+* ✅ ASP.NET Core ERP System
+* ✅ React Frontend Development
+* ✅ Payment Gateway Integrations
+* ✅ Google Cloud Integrations
+* ✅ AI-powered Web Applications
 
-**[Job Title]** @ [Company Name]  
-*[Start Date] – [End Date]*
-- [Key responsibility or achievement]
-- [Key responsibility or achievement]
+---
 
-**[Previous Job Title]** @ [Previous Company Name]  
-*[Start Date] – [End Date]*
-- [Key responsibility or achievement]
+## 🌟 Areas of Expertise
 
-## 🌐 Connect With Me
+* Full Stack Development
+* REST API Development
+* Software Architecture
+* Database Design
+* Authentication & Authorization
+* Payment Gateway Integration
+* Performance Optimization
+* Third-party Integrations
+* Clean Code & Best Practices
+* Agile Development
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  
+
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)](https://www.linkedin.com/in/muhammad-farooq-6b557923b/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/farooqhalimzaigithub)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:farooqhalimzai24Gmail.com)
+
 </div>
-
-## 📝 Latest Blog Posts
-
-- [Blog Post Title](https://yourblog.com/post-1)
-- [Blog Post Title](https://yourblog.com/post-2)
-- [Blog Post Title](https://yourblog.com/post-3)
 
 ---
 
 <div align="center">
-  
-  ⭐ If you find my work interesting, feel free to star some repos or follow for more!
-  
+
+### 💙 "Code is more than syntax—it's about solving real-world problems."
+
+⭐ If you like my work, consider giving a star to my repositories and following me on GitHub!
+
 </div>
