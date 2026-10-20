@@ -11,6 +11,17 @@ Passionate about building scalable web applications, REST APIs, and modern softw
 
 </div>
 
+
+What I bring to a team
+- 🏗️ Scalable Architecture: Build clean, maintainable, and scalable applications using SOLID principles, design patterns, and best practices across Laravel, NestJS, and ASP.NET Core.
+- 🌐 Full-Stack Development: Deliver end-to-end web applications using React, JavaScript, PHP, Node.js, C#, REST APIs, and modern backend frameworks.
+- 🗄️ Database Design & Optimization: Design efficient database schemas, optimize complex queries, and work with MySQL, PostgreSQL, and SQL Server.
+- 🔐 Secure & Reliable APIs: Develop robust RESTful APIs with authentication, authorization, role-based access control, and third-party integrations.
+- ☁️ Cloud & DevOps: Work with Git, GitHub, Docker, CI/CD workflows, and cloud deployment practices to build and deliver production-ready applications.
+- ⚡ Performance & Optimization: Improve application speed, optimize database performance, reduce technical debt, and build systems that scale with business needs.
+- 🤝 Teamwork & Problem-Solving: Collaborate with cross-functional teams, review code, troubleshoot complex issues, and contribute to maintainable software solutions.
+- 🚀 End-to-End Delivery: Bring 5+ years of software development experience to projects, from requirements analysis and system design to development, testing, deployment, and ongoing maintenance.
+
 ---
 
 ## 👨‍💻 About Me
