@@ -7,7 +7,7 @@
 Passionate about building scalable web applications, REST APIs, and modern software solutions.
 
 [![GitHub followers](https://img.shields.io/github/followers/farooqhalimzaigithub?style=social)](https://github.com/farooqhalimzaigithub)
-[![Profile Views](https://komarev.com/ghpvc/?username=farooqhalimzaigithub\&label=Profile%20Views\&color=0e75b6\&style=flat)](https://github.com/farooqhalimzaigithub)
+[![Profile Views](https://komarev.com/ghpvc/?username=farooqhalimzaigithub\&label=Profile%20Views\&color=0e75b6\&style=flat)]([https://github.com/farooqhalimzaigithub](https://github.com/farooqhalimzaigithub))
 
 </div>
 
