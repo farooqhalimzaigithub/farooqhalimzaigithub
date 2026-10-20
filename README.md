@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Full Stack Software Engineer | Laravel • NestJS • React • .NET
+### 🚀 Senior Software Engineer | System Architect | Technical Lead | Lead Full Stack Engineer | Lead Backend Developer | Microservices • Distributed Systems • Cloud • DevOps
 
 Passionate about building scalable web applications, REST APIs, and modern software solutions.
 
